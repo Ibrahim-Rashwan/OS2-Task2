@@ -20,4 +20,4 @@ jobs:
       run: docker login --username ${{ secrets.USERNAME }} --password ${{ secrets.TOKEN }}
       
     - name: Push custom image to docker hub
-      run: docker push ${{ secrets.USERNAME }}/my-image
+      run: docker push ${{ secrets.USERNAME }}/my-image 
