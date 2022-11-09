@@ -1,5 +1,5 @@
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("Hello World from custom image by Ibrahim Rashwan!");
+		System.out.println("Hello World from custom image by Ibrahim Rashwan!"); 
 	}
 }
